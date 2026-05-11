@@ -14,8 +14,8 @@ import Header from "@/components/Header";
 import Analytics from "@/components/Analytics";
 
 export const metadata: Metadata = {
-  title: "Website Template",
-  description: "Website template for CHTC projects",
+  title: "Submit Your First Jobs to the OSPool · Interactive Course",
+  description: "An interactive single-page course on submitting HTCondor jobs to the Open Science Pool — with diagrams, a live submit-file builder, simulated terminal, and quizzes.",
 	metadataBase: new URL(`https://${process.env.HOSTNAME}`),
 };
 
